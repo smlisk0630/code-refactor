@@ -7,6 +7,6 @@
 This repository holds our first homework assignment, a refactoring of the HTML and CSS for the Horiseon Online Mareting Services website.
 
 ## Screenshots
-![Horiseon Header Screenshot](assets/HoriseonHeaderScreenshot.png)
-![Horiseon Content Screenshot 1](assets/HoriseonContentScreenshot1.png)
-![Horiseon Content Screenshot 2](assets/HoriseonContentScreenshot 2.png)
+![Horiseon Header Screenshot](assets/Horiseon%20Header%20Screenshot.png)
+![Horiseon Content Screenshot 1](assets/Horiseon%20Content%20Screenshot%201.png)
+![Horiseon Content Screenshot 2](assets/Horiseon%20Content%20Screenshot%202.png)
