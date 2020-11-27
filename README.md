@@ -1,2 +1,5 @@
-# code-refactor
-Repository for unc-ral-fsf-pt-11-2020-u-c/01-html-git-css/homework
+# Homework 1: Horiseon Online Marketing Services
+
+This repository holds our first homework assignment, a refactoring of the HTML and CSS for the Horiseon Online Mareting Services website.
+
+## Screenshots
